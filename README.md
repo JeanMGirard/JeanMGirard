@@ -22,6 +22,7 @@
 &nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/JeanMGirard)
 &nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@jeanmgirard.7)
 &nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlecloud.svg' alt='google cloud' height='40'>](https://g.dev/jeanmgirard)
+&nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg' alt='google cloud' height='40'>](https://www.npmjs.com/~jeanmgirard)
 
 #### Cloud | DevOps | Full Stack
   
