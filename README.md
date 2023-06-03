@@ -13,6 +13,8 @@
 
 <div style="align:center;" align="center">
 
+<!-- https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ -->
+
 &nbsp;&nbsp;  [<img src='https://raw.githubusercontent.com/JeanMGirard/JeanMGirard/main/assets/svg/github.svg' alt='github' height='40'>](https://github.com/JeanMGirard)
 &nbsp;&nbsp;  [<img src='https://raw.githubusercontent.com/JeanMGirard/JeanMGirard/main/assets/svg/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/jeanmgirard)
 &nbsp;&nbsp;  [<img src='https://raw.githubusercontent.com/JeanMGirard/JeanMGirard/main/assets/svg/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jeanmgirard)
@@ -23,6 +25,7 @@
 &nbsp;&nbsp;  [<img src='https://raw.githubusercontent.com/JeanMGirard/JeanMGirard/main/assets/svg/medium.svg' alt='medium' height='40'>](https://medium.com/@jeanmgirard.7)
 &nbsp;&nbsp;  [<img src='https://raw.githubusercontent.com/JeanMGirard/JeanMGirard/main/assets/svg/googlecloud.svg' alt='google cloud' height='40'>](https://g.dev/jeanmgirard)
 &nbsp;&nbsp;  [<img src='https://raw.githubusercontent.com/JeanMGirard/JeanMGirard/main/assets/svg/npm.svg' alt='google cloud' height='40'>](https://www.npmjs.com/~jeanmgirard)
+&nbsp;&nbsp;  [<img src='https://raw.githubusercontent.com/JeanMGirard/JeanMGirard/main/assets/svg/pypi.svg' alt='Pypi' height='40'>](https://pypi.org/user/JeanMGirard/)
 
 #### Cloud | DevOps | Full Stack
   
