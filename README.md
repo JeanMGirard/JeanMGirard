@@ -25,8 +25,9 @@
 &nbsp;&nbsp;  [<img src='https://raw.githubusercontent.com/JeanMGirard/JeanMGirard/main/assets/svg/medium.svg' alt='medium' height='40'>](https://medium.com/@jeanmgirard.7)
 &nbsp;&nbsp;  [<img src='https://raw.githubusercontent.com/JeanMGirard/JeanMGirard/main/assets/svg/googlecloud.svg' alt='google cloud' height='40'>](https://g.dev/jeanmgirard)
 &nbsp;&nbsp;  [<img src='https://raw.githubusercontent.com/JeanMGirard/JeanMGirard/main/assets/svg/npm.svg' alt='google cloud' height='40'>](https://www.npmjs.com/~jeanmgirard)
-&nbsp;&nbsp;  [<img src='https://raw.githubusercontent.com/JeanMGirard/JeanMGirard/main/assets/svg/pypi.svg' alt='Pypi' height='40'>](https://pypi.org/user/JeanMGirard/)
 
 #### Cloud | DevOps | Full Stack
-  
+
+<!-- &nbsp;&nbsp;  [<img src='https://raw.githubusercontent.com/JeanMGirard/JeanMGirard/main/assets/svg/pypi.svg' alt='Pypi' height='40'>](https://pypi.org/user/JeanMGirard/) -->
+
 </div>
