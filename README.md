@@ -28,12 +28,9 @@
 
 #### Cloud | DevOps | Full Stack
   
-</div>
+</div><div style="align:center;" align="center"><small>
+  
+[pypi](https://pypi.org/user/JeanMGirard/) - [FOSS](https://itsfoss.community/u/jeanmgirard)
 
-<div style="display: none;" >
-
-* [pypi](https://pypi.org/user/JeanMGirard/)
-* [FOSS](https://itsfoss.community/u/jeanmgirard)
-
-</div>
+</small></div>
 
