@@ -22,7 +22,7 @@
 &nbsp;&nbsp;  [<img src='https://raw.githubusercontent.com/JeanMGirard/JeanMGirard/main/assets/svg/icloud.svg' alt='website' height='40'>](https://jeanmgirard.com)
 &nbsp;&nbsp;  [<img src='https://raw.githubusercontent.com/JeanMGirard/JeanMGirard/main/assets/svg/docker.svg' alt='docker' height='40'>](https://hub.docker.com/u/jeanmgirard)
 &nbsp;&nbsp;  [<img src='https://raw.githubusercontent.com/JeanMGirard/JeanMGirard/main/assets/svg/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/Jean.M.Girard)
-&nbsp;&nbsp;  [<img src='https://raw.githubusercontent.com/JeanMGirard/JeanMGirard/main/assets/svg/medium.svg' alt='medium' height='40'>](https://medium.com/@jeanmgirard)
+&nbsp;&nbsp;  [<img src='https://raw.githubusercontent.com/JeanMGirard/JeanMGirard/main/assets/svg/medium.svg' alt='medium' height='40'>](https://medium.com/@jeanmg1rard)
 &nbsp;&nbsp;  [<img src='https://raw.githubusercontent.com/JeanMGirard/JeanMGirard/main/assets/svg/googlecloud.svg' alt='google cloud' height='40'>](https://g.dev/jeanmgirard)
 &nbsp;&nbsp;  [<img src='https://raw.githubusercontent.com/JeanMGirard/JeanMGirard/main/assets/svg/npm.svg' alt='google cloud' height='40'>](https://www.npmjs.com/~jeanmgirard)
 
